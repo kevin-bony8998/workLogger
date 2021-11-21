@@ -1,0 +1,27 @@
+{
+  "name": "workLogger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevin-bony8998/workLogger.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevin-bony8998/workLogger/issues"
+  },
+  "homepage": "https://github.com/kevin-bony8998/workLogger#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "@types/react-autosuggest": "^10.1.5",
+    "@types/styled-components": "^5.1.15"
+  }
+}
